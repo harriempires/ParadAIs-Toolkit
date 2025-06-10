@@ -1,4 +1,4 @@
-# Paradise Chain L1
+# Paradise Chain L1 - TESTNET
 
 Public RPC
 https://subnets.avax.network/paradisev2/testnet/rpc
