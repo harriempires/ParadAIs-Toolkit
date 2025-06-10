@@ -1,7 +1,7 @@
 # Paradise Chain L1
 
 Public RPC
-https://subnets.avax.network/paradisev2/test…/rpc
+https://subnets.avax.network/paradisev2/testnet/rpc
 
 Explorer
 https://subnets-test.avax.network/paradisev2
