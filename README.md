@@ -1,3 +1,3 @@
-# ParadAIs-Toolkit
+# Paradise Chain L1
 
-Upcoming open source Unity SDK for AI Agents
+Upcoming contracts and other public info related to the Paradise Chain.
